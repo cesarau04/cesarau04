@@ -45,7 +45,7 @@ Virtual Production • XR • Real-time Rendering
 
 ## Links
 
-- LinkedIn: [Profile]([https://www.linkedin.com/in/cesarau04/])
+- LinkedIn: https://www.linkedin.com/in/cesarau04/
 - Email: cesarau04@gmail.com
 
 ## Current Goal
