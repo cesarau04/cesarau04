@@ -1,16 +1,54 @@
-## Hi there 👋
+# César García
 
-<!--
-**cesarau04/cesarau04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Unreal Engine Developer focused on real-time systems, Virtual Production, automotive visualization, and interactive experiences.
 
-Here are some ideas to get you started:
+Currently building high-performance UE5 applications at xix3D, including real-time automotive configurators and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Focus
+
+- Unreal Engine 5
+- C++
+- Real-time rendering
+- Virtual Production
+- Automotive visualization
+- Gameplay systems
+- XR experiences
+- Technical problem solving
+
+## Background
+
+Worked across:
+- mobile games
+- Virtual Production pipelines
+- LED wall systems
+- live Unreal Engine broadcasts
+- real-time configurators
+- multi-platform experiences
+
+## Source Control
+
+Most of my day-to-day workflow uses:
+- Perforce (P4V)
+- hosted source control solutions
+- Git LFS pipelines
+
+Because of that, my GitHub activity may not fully reflect the amount of production work I do.
+
+## Tech
+
+```txt
+Unreal Engine • C++ • Blueprints • Python
+React • Node.js • REST APIs
+Perforce • Git • Git LFS
+Virtual Production • XR • Real-time Rendering
+```
+
+## Links
+
+- Portfolio: cesarau04.dev
+- LinkedIn: :contentReference[oaicite:0]{index=0}
+- Email: cesarau04@gmail.com
+
+## Current Goal
+
+Building premium real-time experiences with Unreal Engine while continuing to explore rendering, visualization, Virtual Production, and interactive systems.
